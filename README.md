@@ -34,3 +34,11 @@ all frontend files (`index.html`, `style.css`, and `code.js`) are placed inside 
 be accessed through a browser by navigating to `http://localhost:5000`. This makes the chat application fully functional in a web browser environment without needing any additional setup beyond Node.js and a 
 modern browser. Although the current version of the application is simple and does not include features like user authentication or persistent message storage, it effectively demonstrates real-time communication
 and can serve as a solid foundation for building more complex chat systems in the future.
+
+Output:
+
+![Image](https://github.com/user-attachments/assets/5c954958-8ab0-4829-9633-84a04a3e8818)
+
+![Image](https://github.com/user-attachments/assets/5ba41345-16b3-4d9b-9435-ca4f7fe5aaf1)
+
+![Image](https://github.com/user-attachments/assets/8acf3516-e772-45db-a71a-d0341be1aa29)
